@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react_test_survey/static/css/main.0cc6d2d3.css",
+    "main.js": "/react_test_survey/static/js/main.58033b4c.js",
+    "static/js/787.d95795ca.chunk.js": "/react_test_survey/static/js/787.d95795ca.chunk.js",
+    "static/media/people.mp4": "/react_test_survey/static/media/people.2c8d406d0f3258025462.mp4",
+    "index.html": "/react_test_survey/index.html",
+    "main.0cc6d2d3.css.map": "/react_test_survey/static/css/main.0cc6d2d3.css.map",
+    "main.58033b4c.js.map": "/react_test_survey/static/js/main.58033b4c.js.map",
+    "787.d95795ca.chunk.js.map": "/react_test_survey/static/js/787.d95795ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cc6d2d3.css",
+    "static/js/main.58033b4c.js"
+  ]
+}
